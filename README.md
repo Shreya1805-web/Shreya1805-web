@@ -42,7 +42,7 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreya1805-web&theme=slateorange)](https://git.io/streak-stats) <br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya1805-web&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya1805-web&theme=slateorange)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya1805-web&theme=slateorange)-->
 </div>
 
 
