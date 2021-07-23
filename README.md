@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<--[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)-->
                
  <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
@@ -14,6 +14,7 @@
 ### 📧 Mail me at: shreya.sb196@gmail.com
 
 ### 🌐 My LinkedIn profile: https://www.linkedin.com/in/shreya-banerjee1805/
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreya1805-web&theme=dark)](https://git.io/streak-stats)
 
