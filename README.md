@@ -6,13 +6,10 @@
 
 ## About me👩‍💻
 
-### 👩‍🎓 I’m a Computer Science undergrad at BITS Pilani
+### 👩‍🎓 I’m pursuing MSc Computing at Imperial College London
+### I'm curious and always ready to learn new technologies
 
-### 🧐 I’m new to open source
-
-### 👯‍♀️ I’m looking to collaborate on python and web dev projects
-
-### 📧 Mail me at: shreya.sb196@gmail.com
+### 📧 Have an interesting project in mind? would love to collaborate, mail me at: shreya.sb196@gmail.com
 
 ### <img src="https://github.com/Shreya1805-web/Shreya1805-web/blob/main/linkedin%20icon.png" width ="20px" >  [ My LinkedIn profile ][LinkedIn-url] 
 <br/>
