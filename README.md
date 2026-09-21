@@ -8,8 +8,9 @@
 
 ### 👩‍🎓 I’m pursuing MSc Computing at Imperial College London
 ### I'm curious and always ready to learn new technologies
+###  Have an interesting project in mind? I would love to collaborate.
 
-### 📧 Have an interesting project in mind? would love to collaborate, mail me at: shreya.sb196@gmail.com
+### 📧 Mail me at: shreya.sb196@gmail.com
 
 ### <img src="https://github.com/Shreya1805-web/Shreya1805-web/blob/main/linkedin%20icon.png" width ="20px" >  [ My LinkedIn profile ][LinkedIn-url] 
 <br/>
